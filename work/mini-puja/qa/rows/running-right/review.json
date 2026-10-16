@@ -1,0 +1,142 @@
+{
+  "ok": true,
+  "frames_root": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-right\\frames",
+  "states": [
+    "running-right"
+  ],
+  "errors": [],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-right\\frames\\running-right\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13900,
+          "bbox": [
+            34,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 178
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-right\\frames\\running-right\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13466,
+          "bbox": [
+            34,
+            5,
+            156,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 184
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-right\\frames\\running-right\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13354,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 183
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-right\\frames\\running-right\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 14135,
+          "bbox": [
+            33,
+            5,
+            158,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 198
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-right\\frames\\running-right\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13837,
+          "bbox": [
+            34,
+            5,
+            157,
+            202
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 188
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-right\\frames\\running-right\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13933,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 196
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-right\\frames\\running-right\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13530,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 165
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-right\\frames\\running-right\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 13914,
+          "bbox": [
+            34,
+            5,
+            157,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 174
+        }
+      ]
+    }
+  ]
+}

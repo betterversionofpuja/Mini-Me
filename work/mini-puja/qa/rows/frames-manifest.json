@@ -1,0 +1,99 @@
+{
+  "ok": true,
+  "chroma_key": {
+    "hex": "#FF00FF",
+    "rgb": [
+      255,
+      0,
+      255
+    ],
+    "threshold": 96.0
+  },
+  "rows": [
+    {
+      "state": "running-left",
+      "frames": [
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\00.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\01.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\02.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\03.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\04.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\05.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\06.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waving",
+      "frames": [
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waving\\00.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waving\\01.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waving\\02.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waving\\03.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "jumping",
+      "frames": [
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\jumping\\00.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\jumping\\01.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\jumping\\02.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\jumping\\03.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\jumping\\04.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "failed",
+      "frames": [
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\00.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\01.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\02.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\03.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\04.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\05.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\06.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\07.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "waiting",
+      "frames": [
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waiting\\00.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waiting\\01.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waiting\\02.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waiting\\03.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waiting\\04.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waiting\\05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "running",
+      "frames": [
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running\\00.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running\\01.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running\\02.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running\\03.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running\\04.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running\\05.png"
+      ],
+      "method": "components"
+    },
+    {
+      "state": "review",
+      "frames": [
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\review\\00.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\review\\01.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\review\\02.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\review\\03.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\review\\04.png",
+        "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\review\\05.png"
+      ],
+      "method": "components"
+    }
+  ]
+}

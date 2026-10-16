@@ -1,0 +1,768 @@
+{
+  "ok": false,
+  "frames_root": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows",
+  "states": [
+    "idle",
+    "running-right",
+    "running-left",
+    "waving",
+    "jumping",
+    "failed",
+    "waiting",
+    "running",
+    "review"
+  ],
+  "errors": [
+    "expected 6 frame files for idle, found 0",
+    "expected 8 frame files for running-right, found 0"
+  ],
+  "warnings": [],
+  "rows": [
+    {
+      "state": "idle",
+      "expected_frames": 6,
+      "actual_frames": 0,
+      "extraction_method": null,
+      "ok": false,
+      "errors": [
+        "expected 6 frame files for idle, found 0"
+      ],
+      "warnings": [],
+      "frames": []
+    },
+    {
+      "state": "running-right",
+      "expected_frames": 8,
+      "actual_frames": 0,
+      "extraction_method": null,
+      "ok": false,
+      "errors": [
+        "expected 8 frame files for running-right, found 0"
+      ],
+      "warnings": [],
+      "frames": []
+    },
+    {
+      "state": "running-left",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12944,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 105
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12582,
+          "bbox": [
+            40,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 111
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12748,
+          "bbox": [
+            39,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 119
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12471,
+          "bbox": [
+            39,
+            5,
+            151,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 123
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12923,
+          "bbox": [
+            38,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 120
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12849,
+          "bbox": [
+            38,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 114
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12385,
+          "bbox": [
+            39,
+            5,
+            152,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 113
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running-left\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12827,
+          "bbox": [
+            38,
+            5,
+            153,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 115
+        }
+      ]
+    },
+    {
+      "state": "waving",
+      "expected_frames": 4,
+      "actual_frames": 4,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waving\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11520,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waving\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12087,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 29
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waving\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11866,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 23
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waving\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11595,
+          "bbox": [
+            50,
+            5,
+            142,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 27
+        }
+      ]
+    },
+    {
+      "state": "jumping",
+      "expected_frames": 5,
+      "actual_frames": 5,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\jumping\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10961,
+          "bbox": [
+            52,
+            8,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\jumping\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9727,
+          "bbox": [
+            45,
+            50,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 64
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\jumping\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11783,
+          "bbox": [
+            38,
+            5,
+            154,
+            166
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 62
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\jumping\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 11289,
+          "bbox": [
+            38,
+            31,
+            154,
+            201
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\jumping\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10966,
+          "bbox": [
+            52,
+            8,
+            140,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 64
+        }
+      ]
+    },
+    {
+      "state": "failed",
+      "expected_frames": 8,
+      "actual_frames": 8,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10430,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 24
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10279,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 31
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10059,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 31
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10091,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 30
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10349,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 20
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9897,
+          "bbox": [
+            58,
+            5,
+            133,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 18
+        },
+        {
+          "index": 6,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\06.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9439,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 21
+        },
+        {
+          "index": 7,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\failed\\07.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9779,
+          "bbox": [
+            57,
+            5,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 34
+        }
+      ]
+    },
+    {
+      "state": "waiting",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waiting\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12777,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 45
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waiting\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12834,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 50
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waiting\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12721,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 56
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waiting\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12925,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 53
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waiting\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12976,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 62
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\waiting\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12762,
+          "bbox": [
+            46,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 38
+        }
+      ]
+    },
+    {
+      "state": "running",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12152,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 47
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12234,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 52
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12317,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 48
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12163,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 52
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12448,
+          "bbox": [
+            47,
+            5,
+            145,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 42
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\running\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 12051,
+          "bbox": [
+            48,
+            5,
+            144,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 54
+        }
+      ]
+    },
+    {
+      "state": "review",
+      "expected_frames": 6,
+      "actual_frames": 6,
+      "extraction_method": "components",
+      "ok": true,
+      "errors": [],
+      "warnings": [],
+      "frames": [
+        {
+          "index": 0,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\review\\00.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9088,
+          "bbox": [
+            58,
+            10,
+            134,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 40
+        },
+        {
+          "index": 1,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\review\\01.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9757,
+          "bbox": [
+            54,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 24
+        },
+        {
+          "index": 2,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\review\\02.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9938,
+          "bbox": [
+            53,
+            5,
+            139,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 39
+        },
+        {
+          "index": 3,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\review\\03.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 9686,
+          "bbox": [
+            51,
+            5,
+            141,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 53
+        },
+        {
+          "index": 4,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\review\\04.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 10280,
+          "bbox": [
+            45,
+            5,
+            147,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 83
+        },
+        {
+          "index": 5,
+          "file": "C:\\Users\\admi\\Documents\\Codex\\2026-10-03\\pets-plugin-work-pets-openai-curated-2\\work\\mini-puja\\qa\\rows\\review\\05.png",
+          "width": 192,
+          "height": 208,
+          "nontransparent_pixels": 8945,
+          "bbox": [
+            59,
+            9,
+            133,
+            203
+          ],
+          "edge_pixels": 0,
+          "chroma_adjacent_pixels": 31
+        }
+      ]
+    }
+  ]
+}
